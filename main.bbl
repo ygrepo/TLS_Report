@@ -1,25 +1,42 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{mato2004predictive}
-Anthony~R Mato, Brett~E Riccio, Li~Qin, Daniel Heitjan, Alison Loren, Martin
-  Carroll, David Porter, Donald Tsai, Edward Stadtmauer, Sasha Perl, et~al.
-\newblock A predictive model for tumor lysis syndrome in acute myelogenous
-  leukemia.
-\newblock {\em Blood}, 104(11):883, 2004.
-
-\bibitem{montesinos2008tumor}
+\bibitem[Montesinos et~al.(2008)Montesinos, Lorenzo, Mart{\'\i}n, Sanz,
+  P{\'e}rez-Sirvent, Mart{\'\i}nez, Ort{\'\i}, Algarra, Mart{\'\i}nez,
+  Moscard{\'o}, et~al.]{montesinos2008tumor}
 Pau Montesinos, Ignacio Lorenzo, Guillermo Mart{\'\i}n, Jaime Sanz, Maria~Luz
   P{\'e}rez-Sirvent, David Mart{\'\i}nez, Guillermo Ort{\'\i}, Lorenzo Algarra,
   Jesus Mart{\'\i}nez, Federico Moscard{\'o}, et~al.
 \newblock Tumor lysis syndrome in patients with acute myeloid leukemia:
   identification of risk factors and development of a predictive model.
-\newblock {\em Haematologica}, 93(1):67--74, 2008.
+\newblock \emph{Haematologica}, 93\penalty0 (1):\penalty0 67--74, 2008.
 
-\bibitem{xiao2024prediction}
+\bibitem[Mato et~al.(2004)Mato, Riccio, Qin, Heitjan, Loren, Carroll, Porter,
+  Tsai, Stadtmauer, Perl, et~al.]{mato2004predictive}
+Anthony~R Mato, Brett~E Riccio, Li~Qin, Daniel Heitjan, Alison Loren, Martin
+  Carroll, David Porter, Donald Tsai, Edward Stadtmauer, Sasha Perl, et~al.
+\newblock A predictive model for tumor lysis syndrome in acute myelogenous
+  leukemia.
+\newblock \emph{Blood}, 104\penalty0 (11):\penalty0 883, 2004.
+
+\bibitem[Xiao et~al.(2024)Xiao, Xiao, Zhang, Xu, Guan, Guo, Shen, Lei, Dou, and
+  Yu]{xiao2024prediction}
 Yao Xiao, Li~Xiao, Yang Zhang, Ximing Xu, Xianmin Guan, Yuxia Guo, Yali Shen,
   XiaoYing Lei, Ying Dou, and Jie Yu.
 \newblock Prediction of tumor lysis syndrome in childhood acute lymphoblastic
   leukemia based on machine learning models: a retrospective study.
-\newblock {\em Frontiers in Oncology}, 14:1337295, 2024.
+\newblock \emph{Frontiers in Oncology}, 14:\penalty0 1337295, 2024.
+
+\bibitem[Truong et~al.(2007)Truong, Beyene, Hitzler,
+  et~al.]{truong2007features}
+T.~H. Truong, J.~Beyene, J.~Hitzler, et~al.
+\newblock Features at presentation predict children with acute lymphoblastic
+  leukemia at low risk for tumor lysis syndrome.
+\newblock \emph{Cancer}, 110\penalty0 (8):\penalty0 1832--1839, 2007.
+\newblock \doi{10.1002/cncr.22990}.
 
 \end{thebibliography}
